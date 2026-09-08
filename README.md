@@ -66,4 +66,8 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
