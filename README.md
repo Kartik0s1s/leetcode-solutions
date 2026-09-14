@@ -74,6 +74,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
@@ -87,4 +88,8 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
