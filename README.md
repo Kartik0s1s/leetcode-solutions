@@ -20,6 +20,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -32,6 +33,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0075-sort-colors) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -87,9 +89,14 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Dynamic Programming
 |  |
 | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
