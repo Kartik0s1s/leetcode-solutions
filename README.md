@@ -25,6 +25,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0020-valid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -123,4 +124,8 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
