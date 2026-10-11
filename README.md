@@ -14,6 +14,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -145,6 +146,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
