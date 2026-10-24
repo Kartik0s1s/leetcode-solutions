@@ -166,6 +166,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -276,4 +277,8 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
