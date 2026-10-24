@@ -168,6 +168,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -282,6 +283,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
