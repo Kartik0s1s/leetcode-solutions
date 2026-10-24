@@ -31,6 +31,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [1096-brace-expansion-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -44,6 +45,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
@@ -223,6 +225,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
