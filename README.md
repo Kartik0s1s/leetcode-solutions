@@ -7,6 +7,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -32,6 +33,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | ------- |
 | [0001-two-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [1096-brace-expansion-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -49,6 +51,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0020-valid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0301-remove-invalid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -107,6 +110,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1096-brace-expansion-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
