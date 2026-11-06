@@ -9,6 +9,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0001-two-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0198-house-robber) |
@@ -236,6 +237,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0022-generate-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -298,6 +300,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
