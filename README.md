@@ -15,6 +15,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0213-house-robber-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0740-delete-and-earn](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -51,6 +52,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0141-linked-list-cycle](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0740-delete-and-earn](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [1096-brace-expansion-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -235,6 +237,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0198-house-robber](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
