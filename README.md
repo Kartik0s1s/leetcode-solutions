@@ -15,6 +15,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0063-unique-paths-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -202,6 +203,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0035-search-insert-position](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
