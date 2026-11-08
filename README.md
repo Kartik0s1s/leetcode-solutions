@@ -197,6 +197,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0035-search-insert-position](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -207,6 +208,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Math
 |  |
 | ------- |
