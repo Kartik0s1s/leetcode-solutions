@@ -26,6 +26,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -212,6 +213,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
