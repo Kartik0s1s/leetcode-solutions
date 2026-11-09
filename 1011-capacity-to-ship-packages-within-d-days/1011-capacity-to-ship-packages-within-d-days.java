@@ -9,7 +9,7 @@ class Solution {
         max = Math.max(max,weights[i]);
        }
 
-       int low = max;
+       int low = 1;
        int high = sum; 
        int ans = -1;
 
