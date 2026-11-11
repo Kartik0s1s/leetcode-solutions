@@ -237,6 +237,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | ------- |
 | [0062-unique-paths](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0836-rectangle-overlap) |
@@ -272,6 +273,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0032-longest-valid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0198-house-robber) |
@@ -396,6 +398,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
