@@ -189,6 +189,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -199,6 +200,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1096-brace-expansion-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -207,6 +209,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -215,6 +218,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
