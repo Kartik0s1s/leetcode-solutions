@@ -31,6 +31,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0746-min-cost-climbing-stairs](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0997-find-the-town-judge](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -79,6 +80,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0205-isomorphic-strings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0740-delete-and-earn](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0997-find-the-town-judge](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1096-brace-expansion-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -226,6 +228,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
