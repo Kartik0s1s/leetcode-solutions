@@ -19,6 +19,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -190,6 +191,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -200,6 +202,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -212,6 +215,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -372,6 +376,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
