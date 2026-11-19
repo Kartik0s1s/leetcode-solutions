@@ -1,49 +1,47 @@
-class Solution 
-{
-    public boolean validPath(int n, int[][] edges, int source, int destination) 
-    {
-       ArrayList<ArrayList<Integer>> graph = new ArrayList<>();
+class Solution {
+    public boolean validPath(int n, int[][] edges, int source, int destination) {
+        
+         Queue<Integer> q = new LinkedList<>();
 
-       for(int i =0; i<n; i++)
-       {
-        graph.add(new ArrayList<>());
-       }
+         boolean visited [] = new boolean[n];
 
-    for(int [] arr : edges)
-    {
-      int u = arr[0];
-      int v = arr[1];
+         List<List<Integer>> adjList = new  ArrayList<>();
 
-      graph.get(u).add(v);
-      graph.get(v).add(u);
-    } 
+         for(int i=0; i<n; i++){
+            adjList.add(new ArrayList<>());
+         }
 
-    boolean [] visited = new boolean [n];
-    Queue<Integer> q = new LinkedList<>();
-    q.offer(source);
-    visited[source] = true;
+         for(int [] edge : edges){
+            int u = edge[0];
+            int v = edge[1];
 
-    while(!q.isEmpty())
-    {
-        int node = q.poll();
+            adjList.get(u).add(v);
+            adjList.get(v).add(u);
+         }
 
-        if(node == destination)
-        {
-            return true;
-        }
 
-        for(int neighbor : graph.get(node))
-        {
-            if(visited[neighbor] == false)
-            {
-                visited[neighbor] = true;
-                q.offer(neighbor);
+         visited[source] = true;
+         
+         q.offer(source);
+
+         while(!q.isEmpty()){
+            int node = q.poll();
+
+            if(node == destination ){
+                return true;
             }
-        }
+
+            for(int neighbor : adjList.get(node)){
+                if(!visited[neighbor]){
+                    visited[neighbor] = true;
+                    q.offer(neighbor);
+                }
+            }
+         }
+        return false; 
     }
+ 
 
+ 
 
-
-     return false;
-    }
 }
