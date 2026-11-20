@@ -80,6 +80,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0001-two-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0133-clone-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -198,6 +199,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -211,6 +213,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0322-coin-change) |
@@ -239,6 +242,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0997-find-the-town-judge) |
