@@ -32,6 +32,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0746-min-cost-climbing-stairs](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -216,6 +217,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0695-max-area-of-island](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -393,6 +395,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0695-max-area-of-island](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
