@@ -201,6 +201,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | ------- |
 | [0133-clone-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -216,6 +217,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | ------- |
 | [0133-clone-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -245,6 +247,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -531,5 +534,10 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
