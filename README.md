@@ -208,6 +208,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0733-flood-fill](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -228,6 +229,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0733-flood-fill](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -240,6 +242,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0886-possible-bipartition](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1254-number-of-closed-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -254,6 +257,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -544,4 +548,12 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | ------- |
 | [0207-course-schedule](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
