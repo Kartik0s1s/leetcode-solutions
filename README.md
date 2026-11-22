@@ -204,6 +204,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -222,6 +223,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0542-01-matrix) |
@@ -464,6 +466,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -478,6 +481,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
