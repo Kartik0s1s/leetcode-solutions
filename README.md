@@ -24,6 +24,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0322-coin-change](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0695-max-area-of-island) |
