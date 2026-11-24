@@ -346,6 +346,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0678-valid-parenthesis-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0931-minimum-falling-path-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
