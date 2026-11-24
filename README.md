@@ -41,6 +41,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -300,6 +301,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -386,6 +388,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -561,4 +564,12 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0886-possible-bipartition) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
