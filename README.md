@@ -52,6 +52,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [1882-process-tasks-using-servers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -94,6 +95,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2747-count-zero-request-servers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -376,6 +378,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -520,6 +523,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Shortest Path
 |  |
 | ------- |
