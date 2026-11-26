@@ -48,6 +48,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -289,6 +290,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
