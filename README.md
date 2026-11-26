@@ -320,6 +320,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2396-strictly-palindromic-number](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -422,6 +423,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
