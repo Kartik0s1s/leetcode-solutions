@@ -121,6 +121,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0205-isomorphic-strings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -179,6 +180,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0075-sort-colors](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0647-palindromic-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2396-strictly-palindromic-number](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -359,6 +361,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0322-coin-change](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
