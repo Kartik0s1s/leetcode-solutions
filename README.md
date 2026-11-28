@@ -54,6 +54,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1882-process-tasks-using-servers](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -398,6 +399,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1710-maximum-units-on-a-truck](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
