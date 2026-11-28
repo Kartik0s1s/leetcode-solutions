@@ -11,6 +11,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 | [0033-search-in-rotated-sorted-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -316,6 +317,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -449,6 +451,7 @@ My LeetCode solutions in Java, organized by problem and DSA pattern. This reposi
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Kartik0s1s/leetcode-solutions/tree/master/0542-01-matrix) |
